@@ -8,7 +8,7 @@ Include the latest version of [jQuery](http://jquery.com/download) and `jQuery.s
 <script src="jQuery.scrollSpeed.js"></script>
 
 CDN
-<script src="https://cdn.rawgit.com/aslamanver/jQuery.scrollSpeed/39fdb1d5/jQuery.scrollSpeed.js"></script>
+<script src="https://cdn.rawgit.com/aslamanver/jQuery.scrollSpeed/d89c1272/jQuery.scrollSpeed.js"></script>
 
 ```
 ## How to Use
